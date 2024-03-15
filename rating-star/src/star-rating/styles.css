@@ -1,0 +1,19 @@
+
+.active {
+    color: #fff700;
+}
+.inactive {
+    color: white;
+}
+
+body {
+    background-color: #5d5959;
+}
+h2 {
+    color: white;
+}
+
+h1 {
+    color: rgb(85, 173, 211);
+    font-weight: 1.5rem;
+}
